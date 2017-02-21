@@ -1,6 +1,8 @@
 React Infinite Scroll
 =====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/react-infinite-scroll.svg)](https://greenkeeper.io/)
+
 *React infinite scroll component*
 
 Demo: http://jsfiddle.net/mb9vJ/2
